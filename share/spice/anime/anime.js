@@ -54,6 +54,9 @@
                     rating: true,
                     buy: Spice.anime.buy,
                     hideReviewText: true
+                },
+                elClass: {
+                    tileBody: ''
                 }
             }
         });

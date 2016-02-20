@@ -1,0 +1,8 @@
+.zci--anime .tile__title--2:hover {
+    overflow: visible;
+    display: inline-block;
+}
+
+.zci--anime .tile__rating {
+    float: left;
+}
